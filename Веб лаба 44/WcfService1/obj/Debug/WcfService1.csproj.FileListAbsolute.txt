@@ -1,0 +1,7 @@
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\bin\WcfService1.dll.config
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\bin\WcfService1.dll
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\bin\WcfService1.pdb
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\early\OneDrive\Рабочий стол\Лабы Веб\Веб лаба 44\WcfService1\obj\Debug\WcfService1.pdb
